@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << " ";
+    std::cout << "b,,jbj ";
     return 0;
 }

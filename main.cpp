@@ -7,5 +7,7 @@ int main() {
     std::cout <<"vnesi besedilo: ";
     std::cin >> SS;
 
+    std::cout << "Vase besedilo: " + SS + "\n";
+
     return 0;
 }
